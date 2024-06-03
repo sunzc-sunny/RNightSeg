@@ -1,4 +1,4 @@
-[Official](/home/sunzc/RNightSeg/videos/seg_video_1.mp4)
+[Official](./videos/seg_video_1.mp4)
 
 
 This is a brief description of my project.
